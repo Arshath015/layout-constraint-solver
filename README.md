@@ -93,3 +93,6 @@ The Layout Constraint Solver has the following limitations:
 
 ## License
 The Layout Constraint Solver is licensed under the MIT License.
+
+---
+**Last updated:** 2026-07-17
