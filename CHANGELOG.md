@@ -13,3 +13,6 @@ All notable changes to this project are documented here.
 
 ### 2026-08-21
 - Documentation pass for clarity and consistency.
+
+### 2026-08-30
+- Documentation pass for clarity and consistency.
